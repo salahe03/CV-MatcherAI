@@ -37,10 +37,12 @@ ENV/
 Thumbs.db
 
 # Project specific
-sample_data/
-*.pdf
-*.txt
+sample_data/*.pdf
+sample_data/*.txt
 *.log
+
+# But don't ignore requirements.txt
+!requirements.txt
 
 # Git
 .git/
