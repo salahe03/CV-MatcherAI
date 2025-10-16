@@ -1,0 +1,59 @@
+John Doe
+Senior Machine Learning Engineer
+Email: john.doe@email.com | Phone: +1-555-0123
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+SUMMARY
+Experienced Machine Learning Engineer with 6+ years of expertise in developing and deploying ML models at scale. Strong background in Python, PyTorch, and cloud technologies. Proven track record of building production-ready ML systems.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript, SQL, Bash
+ML/AI Frameworks: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+Web Technologies: FastAPI, Flask, Django, React, Node.js
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Git, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Other: Machine Learning, Deep Learning, NLP, Computer Vision, REST API, Microservices
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer | Tech Corp Inc.
+January 2021 - Present
+- Designed and deployed ML models for recommendation systems serving 10M+ users
+- Built FastAPI-based microservices for real-time model inference with <50ms latency
+- Implemented CI/CD pipelines using Docker and Kubernetes for model deployment
+- Developed NLP models using PyTorch and Transformers for text classification
+- Collaborated with cross-functional teams using Agile methodologies
+
+Machine Learning Engineer | DataTech Solutions
+June 2018 - December 2020
+- Created computer vision models for image classification achieving 95% accuracy
+- Developed data preprocessing pipelines using Pandas and NumPy
+- Deployed ML models on AWS using Docker containers
+- Implemented REST APIs using Flask for model serving
+- Performed data analysis and visualization using Matplotlib and Seaborn
+
+EDUCATION
+
+Master of Science in Computer Science
+Stanford University, 2018
+Focus: Machine Learning and Artificial Intelligence
+
+Bachelor of Science in Computer Engineering
+University of California, Berkeley, 2016
+
+PROJECTS
+
+CV-to-Job Matcher
+- Built an ML-powered matching system using DistilBERT embeddings
+- Implemented FastAPI service with Docker containerization
+- Achieved 0.87 average match accuracy on test dataset
+
+Recommendation Engine
+- Developed collaborative filtering system using PyTorch
+- Deployed on AWS with Kubernetes orchestration
+- Processed 1M+ recommendations daily
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (Coursera)
+- Docker and Kubernetes Certification
